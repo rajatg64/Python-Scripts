@@ -17,3 +17,6 @@ A-Frozensets are like sets except that they cannot be changed, i.e. they are imm
 Q-What is the purpose of // operator?
 A-// Floor Division − The division of operands where the result is the quotient in which the digits after the decimal point are removed.
 
+Q- How can you pick a random item from a list or tuple?
+A- choice(seq) − Returns a random item from a list, tuple, or string.
+
