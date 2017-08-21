@@ -3,4 +3,17 @@ Tuples:
   Tuples are sequences, just like lists.
   The differences between tuples and lists are, the tuples cannot be changed unlike lists and tuples use parentheses,
   whereas lists use square brackets.
+  
+ Dictionary:
+  Keys are unique within a dictionary while values may not be.
+  The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
  
+Q-How will you get all the keys from the dictionary?
+A-dictionary.keys() ,dictionary.Values()
+
+Q-What is FrozzenSet?
+A-Frozensets are like sets except that they cannot be changed, i.e. they are immutable:
+
+Q-What is the purpose of // operator?
+A-// Floor Division − The division of operands where the result is the quotient in which the digits after the decimal point are removed.
+
