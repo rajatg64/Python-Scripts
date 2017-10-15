@@ -20,3 +20,5 @@ A-// Floor Division − The division of operands where the result is the quotien
 Q- How can you pick a random item from a list or tuple?
 A- choice(seq) − Returns a random item from a list, tuple, or string.
 
+Q- What is a set?
+A- A set is an unordered collection of unique elements
